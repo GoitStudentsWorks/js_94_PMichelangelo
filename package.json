@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-Tech_Gourmet_Solution01/",
+    "build": "vite build --base=/js_94_PMichelangelo",
     "preview": "vite preview"
   },
   "devDependencies": {
